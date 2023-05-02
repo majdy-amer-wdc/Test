@@ -1,3 +1,8 @@
+int test2()
+{
+
+}
+
 int test()
 {
   return;
@@ -6,5 +11,6 @@ int test()
 void main()
 {
   test();
+  test2();
 }
 
