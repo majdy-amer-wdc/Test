@@ -1,5 +1,10 @@
+int test()
+{
+  return;
+}
+
 void main()
 {
-
+  test();
 }
 
