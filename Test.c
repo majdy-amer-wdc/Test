@@ -1,10 +1,12 @@
 int test()
 {
-  return;
+  return 10;
 }
 
 void main()
 {
-  test();
+  int n;
+  n = test();
+  printf("%d\n", n);
 }
 
